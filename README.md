@@ -1,7 +1,7 @@
 # fish-bash
    
       fish-bash -> auto corrigiendo comandos en termux 
-# Auto-Corrector
+# Auto-Completador-de-comandos
 ![Screenshot_20191026-195539_Termux~01](https://user-images.githubusercontent.com/46208706/67628428-b4f85800-f82a-11e9-849b-50e63be184c1.jpg)
 
 
