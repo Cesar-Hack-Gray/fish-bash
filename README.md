@@ -25,7 +25,11 @@
  la opción -n -> acá escribimos nuestro nombre example pueden escribir su nombre: fish -n Cesar     
  bien la opción -[color] acá  tenemos muchos colores ejemplo este comando es blanco: fish -n Cesar -W
  excelente, fascinante y tenemos las insignias que seria el dolar, insignias -> -@ -$ -● en mi caso : fish -n Cesar -W -$
-       al final de fish tenemos 3 banners disponibles motd, eyes, cosas, les recomiendo: fish -n Cesar -W -$ eyes
+       al final de fish tenemos 3 banners disponibles motd, eyes, cowsay, les recomiendo: fish -n Cesar -W -$ eyes
+       
+       en mi caso es
+       bash fish -n Cesar -W -$ -B eyes
+       
 # Installation
      
      cd ~
