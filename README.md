@@ -19,12 +19,13 @@
        resumen de fish
        para que se vayan guillando 
        disfruta
-
-
-##### ■ la opción -n -> acá escribimos nuestro nombre example: fish -n Cesar 
-##### ■ Bíen la opción -[color] acá tenemos muchos colores example: fish -n Cesar -W
-##### ■ excelente, fascinante y tenemos las insignias que seria el dolar: fish -n Cesar -W -$
-##### ■ al final de fish tenemos 3 banners disponibles motd, eyes, cosas, les recomiendo: fish -n Cesar -W -$ eyes
+       
+       
+       
+ la opción -n -> acá escribimos nuestro nombre example pueden escribir su nombre: fish -n Cesar     
+ bien la opción -[color] acá  tenemos muchos colores ejemplo este comando es blanco: fish -n Cesar -W
+ excelente, fascinante y tenemos las insignias que seria el dolar, insignias -> -@ -$ -● en mi caso : fish -n Cesar -W -$
+       al final de fish tenemos 3 banners disponibles motd, eyes, cosas, les recomiendo: fish -n Cesar -W -$ eyes
 # Installation
      
      cd ~
