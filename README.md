@@ -6,9 +6,7 @@
 
 
 
-#### ● Fish es un autocorrector de comandos en nuestro terminal termux, pero para que sirve ?
-#### ● Pues es nada más para facilitarnos el trabajo de escribir comandos tras comando !
-#### ● y también cuenta con su banner, nos ofrece 2 banner la 3 es el motd de termux es decir que no hay banner
+#### ● Fish es un autocorrector de comandos en nuestro terminal termux, pero para que sirve ? pues es nada más para facilitarnos el trabajo de escribir comandos tras comando y también cuenta con su banner, nos ofrece 2 banner la 3 es el motd de termux es decir que no hay banner
 
 
 
