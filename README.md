@@ -38,7 +38,7 @@
      bash fish
      
      
- # Usage -> fish
+ # Usage -> https://youtu.be/6_LAcqOK_mo
  
 ![Screenshot_20191026-195954_Termux~01](https://user-images.githubusercontent.com/46208706/67628456-4b2c7e00-f82b-11e9-9e55-c8a15d648d62.jpg)
 
